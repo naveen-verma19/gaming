@@ -1,0 +1,1 @@
+scp -r deck@192.168.0.114:"/home/deck/.local/share/Steam/steamapps/compatdata/2377538389/pfx/drive_c/users/steamuser/AppData/Roaming/EldenRing" .
